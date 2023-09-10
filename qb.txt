@@ -1,0 +1,6 @@
+QB for practicals
+Demonstrate L1 and L2 Regularization. (Any 1 for 20 marks)
+Demonstrate Early Stopping (20 marks)
+RNN for stock price prediction. (40 marks)
+CNN on any dataset (mnist, ciafr) (40 marks)
+Feedforward Neural Network for Binary Classification, Multiclass Classification and Regression (Any 1 for 20 marks)
